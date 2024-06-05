@@ -1,0 +1,8 @@
+{
+    "source_warehouse": "Основной склад",
+    "target_warehouse": "Trap House",
+    "transfer_product_name": "суп пюре",
+    "transfer_product_barcode": "4607065580643",
+    "min_amount": "2",
+    "max_amount": "6"
+}

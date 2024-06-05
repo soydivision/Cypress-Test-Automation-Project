@@ -1,0 +1,13 @@
+{
+    "paymentSuccess": "Оплата кошельком выполнена",
+    "creationSuccess": "Успешно создано",
+    "executionSuccess": "Выполнено успешно",
+    "invalidPincode": "Неправильный пин-код",
+    "cashExtractionSuccess": "Изъятие наличных",
+    "cashInsertionSuccess": "Внесение наличных",
+    "oneElementIsRemovedSuccess": "Удалён 1 элемент",
+    "deletionSuccess": "Успешно удалено",
+    "summAccepted": "Внесение денег выполнено",
+    "clientHasDebtAndCannotBeRemoved": "Клиент имеет задолженность и не может быть удалён",
+    "operationSuccessfull": "Операция выполнена успешно!"
+}

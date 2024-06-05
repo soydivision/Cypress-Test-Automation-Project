@@ -1,0 +1,11 @@
+{
+    "supplier": "Carlyle Group Inc",
+    "product_name": "Нарукавник Водолазка калифорня черный",
+    "wallet": "Основной склад",
+    "min_procurement_price": "1",
+    "max_procurement_price": "2330",
+    "max_profit_in_perc": "100",
+    "min_profit_in_perc": "0",
+    "min_amount": "1",
+    "max_amount": "6"
+}

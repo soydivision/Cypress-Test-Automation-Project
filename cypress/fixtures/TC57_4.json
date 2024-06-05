@@ -1,0 +1,8 @@
+{
+    "firstWarehouse": "Основной склад",
+    "secondWarehouse": "Trap House",
+    "startSumFrom": "500",
+    "startSumTo": "30000",
+    "endSumFrom": "900000",
+    "endSumTo": "5000000"
+}

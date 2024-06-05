@@ -1,0 +1,10 @@
+{
+    "quantity": "7",
+    "selling_price": "500",
+    "profit": "5",
+    "warehouse": "Основной склад",
+    "supplier": "Amazon",
+    "barcode_for_accept": "48511322",
+    "payment_method": "Основной склад",
+    "employee": "Inagawa-kai"
+}

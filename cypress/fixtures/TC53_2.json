@@ -1,0 +1,13 @@
+{
+    "product_name": "Next Generation Light Anti-tank Weapon",
+    "source_warehouse": "Основной склад",
+    "target_warehouse": "Trap House",
+    "transfer_product_barcode": "6543277195233",
+    "amount_to_transfer": "5",
+    "source_amount_before_transfer": "25",
+    "source_amount_after_transfer": "20",
+    "supplier": "Saab Bofors Dynamics",
+    "payment_method": "Без названия",
+    "comment": "done by Cypress",
+    "amount_after_write_off": "0"
+}

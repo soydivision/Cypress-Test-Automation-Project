@@ -1,0 +1,5 @@
+{
+    "supplier": "Taiwan Semiconductor",
+    "excel_path": "cypress\/fixtures\/acceptance_for_nomenclature.xlsx",
+    "barcode": "5646481564165"
+}

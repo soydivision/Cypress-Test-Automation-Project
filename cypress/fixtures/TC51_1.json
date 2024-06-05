@@ -1,0 +1,13 @@
+{
+    "mono_product_name": "Робомусор",
+    "measurementUnit_for_mono": "Штука",
+    "measurementUnit_for_multi": "Пачка",
+    "multi_type_product_name": "АРАХИСОВЫЕ ВАФЛИ",
+    "characteristic_name": "Арахисовость",
+    "characteristic_value": "10",
+    "characteristic_type": "Другое",
+    "monoProductSupplier": "Taiwan Semiconductor",
+    "target_warehouse": "Основной склад",
+    "quantity_mono_product": "100",
+    "write_off_comment": "Done using script"
+}

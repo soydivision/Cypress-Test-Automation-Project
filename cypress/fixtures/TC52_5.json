@@ -1,0 +1,10 @@
+{
+    "bank": "Goldman Sucks",
+    "moneyToDeposit": "2500",
+    "barcodeForAccept": "48511322",
+    "quantity": "5",
+    "sellingPrice": "500",
+    "profit": "5",
+    "supplier": "Amazon",
+    "paidStatus": "Оплачено"
+}

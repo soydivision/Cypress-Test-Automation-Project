@@ -1,0 +1,9 @@
+{
+    "warehouse": "Основной склад",
+    "barcode": "8433042006174",
+    "quantity": "3",
+    "client_name": "Pepe",
+    "payment_type": "Перечисление",
+    "price": "350",
+    "amount": "12"
+}

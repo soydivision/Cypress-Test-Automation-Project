@@ -1,0 +1,9 @@
+{
+    "warehouse": "Основной склад",
+    "barcode": "48511322",
+    "quantity": "3",
+    "seller": "Nike",
+    "comment": "done by script. test",
+    "product_with_returns": "CIGARONNE PHANTOM",
+    "product_with_no_returns": "kiss dessert mini"
+}

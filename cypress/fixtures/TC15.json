@@ -1,0 +1,19 @@
+{
+    "newUserName": "John Dear",
+    "newCompanyName": "Everlast industries",
+    "newUserPhoneNumber": "7780323477",
+    "newUserPass": "old_fox_new_fish",
+    "confirmationSmsCode": "9999",
+    "mobileOperatorCode": "777",
+    "companyDirectorName": "Christopher Chomski",
+    "iinBin": "123456789012",
+    "companyType": "ИП",
+    "companyActivityType": "Аптека",
+    "address": "улица Сезам, 753, кабинет 1188",
+    "bank": "Goldman Sucks",
+    "iik": "KZ606010131000136606",
+    "kbe": "17",
+    "bik": "HSBKKZKX",
+    "rate": "Start",
+    "rateStatus": "Активирован"
+}

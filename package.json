@@ -1,0 +1,16 @@
+{
+  "name": "prosklad_ta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.1",
+    "cypress-if": "^1.12.0",
+    "cypress-mochawesome-reporter": "^3.7.0"
+  }
+}

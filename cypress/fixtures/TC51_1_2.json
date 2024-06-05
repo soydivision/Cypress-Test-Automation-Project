@@ -1,0 +1,16 @@
+{
+    "multi_type_product_name": "Варан",
+    "characteristic_type": "Другое",
+    "characteristic_name": "Отжирабельность",
+    "characteristic_value": "500",
+    "characteristic_2_name": "Размер",
+    "characteristic_2_value": "XL",
+    "characteristic_3_name": "Цвет",
+    "characteristic_3_value": "Изумрудный",
+    "characteristic_4_value": "Черный",
+    "quantity_of_type_1": "17",
+    "quantity_of_type_2": "88",
+    "mono_product_supplier2": "Taiwan Semiconductor",
+    "measurementUnit_for_multi": "Пачка",
+    "target_warehouse": "Основной склад"
+}

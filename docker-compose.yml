@@ -1,0 +1,15 @@
+---
+version: '3.9'
+services:
+  cypress:
+    container_name: cypress-tests
+    build:
+      context: .
+      dockerfile: Dockerfile    
+    image: cypress-tests:latest
+    volumes:
+      - ./:/e2e/cypress/reports
+    network_mode: host 
+  
+
+   
